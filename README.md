@@ -14,6 +14,3 @@
 
 ## 🎛️  Operating System
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-orange.svg?style=for-the-badge&logo=linux&logoColor=white)
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saikomantisu&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikomantisu&layout=compact)
