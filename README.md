@@ -1,5 +1,5 @@
 # Hi there, I'm Ravinath Rajapakshe🖐️
-👋 I'm **Ravinath Rajapakshe** (he/him), a passionate full-stack developer hailing from the picturesque landscapes of Sri Lanka. You might also know me as **Psychomantis**. Delving into numerous projects, I immerse myself in both front-end and back-end technologies. My coding journey is a perpetual quest for improvement, and each project marks a milestone in this ongoing adventure.
+Hi there, I'm **Ravinath Rajapakshe** aka **Psychomantis**, I'm an 18 y/o SE undergrad student. Curious to learn new technologies and explore the world of ethical hacking. I enjoy playing competitive video games and listening to music.
 ## 📋  Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-%23593d88.svg?style=for-the-badge&logo=python&logoColor=%FFD43B) ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
 
