@@ -2,7 +2,7 @@
 
 Also known as **Psychomantis**.
 
-I’m a 20 year old self taught developer, designer, and entrepreneur who enjoys building things, solving problems, and learning new technologies along the way.
+I’m a 20 year old self-taught developer, designer, and entrepreneur who enjoys building things, solving problems, and learning new technologies along the way.
 
 I run **NexGen Devs**, where I help businesses strengthen their online presence through web design, web development, UI/UX, SEO, and other digital solutions. My main focus is creating clean, effective digital experiences that look good, work well, and deliver real value.
 
@@ -14,7 +14,7 @@ Outside of business, I’m into ethical hacking, competitive gaming, music, and 
 - UI/UX design
 - Ethical hacking
 - Automation tools
-- Full stack projects
+- Full-stack projects
 - Building useful products
 - Competitive games
 - Music and creative work
@@ -23,36 +23,36 @@ Outside of business, I’m into ethical hacking, competitive gaming, music, and 
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://shieldcn.dev/badge/-JavaScript-F7DF1E.svg?variant=branded&logo=javascript&logoColor=black)
+![TypeScript](https://shieldcn.dev/badge/-TypeScript-3178C6.svg?variant=branded&logo=typescript&logoColor=white)
+![Python](https://shieldcn.dev/badge/-Python-3776AB.svg?variant=branded&logo=python&logoColor=white)
+![Dart](https://shieldcn.dev/badge/-Dart-0175C2.svg?variant=branded&logo=dart&logoColor=white)
 
 ### Frameworks and tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-1A1A1A?style=for-the-badge&logo=astro&logoColor=FF5D01)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://shieldcn.dev/badge/-React-61DAFB.svg?variant=branded&logo=react&logoColor=black)
+![Astro](https://shieldcn.dev/badge/-Astro-FF5D01.svg?variant=branded&logo=astro&logoColor=white)
+![Node.js](https://shieldcn.dev/badge/-Node.js-5FA04E.svg?variant=branded&logo=nodedotjs&logoColor=white)
+![Express.js](https://shieldcn.dev/badge/-Express.js-000000.svg?variant=branded&logo=express&logoColor=white)
+![Tailwind CSS](https://shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?variant=branded&logo=tailwindcss&logoColor=white)
+![Flutter](https://shieldcn.dev/badge/-Flutter-02569B.svg?variant=branded&logo=flutter&logoColor=white)
 
 ### Design and workflow
 
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
+![Figma](https://shieldcn.dev/badge/-Figma-F24E1E.svg?variant=branded&logo=figma&logoColor=white)
+![Zed](https://shieldcn.dev/badge/-Zed-084CCF.svg?variant=branded&logo=zedindustries&logoColor=white)
+![PyCharm](https://shieldcn.dev/badge/-PyCharm-000000.svg?variant=branded&logo=pycharm&logoColor=white)
 
 ### Hosting and platforms
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+![Netlify](https://shieldcn.dev/badge/-Netlify-00C7B7.svg?variant=branded&logo=netlify&logoColor=white)
+![Vercel](https://shieldcn.dev/badge/-Vercel-000000.svg?variant=branded&logo=vercel&logoColor=white)
+![Supabase](https://shieldcn.dev/badge/-Supabase-3FCF8E.svg?variant=branded&logo=supabase&logoColor=white)
+![Convex](https://shieldcn.dev/badge/-Convex-EE342F.svg?variant=branded&logo=convex&logoColor=white)
 
 ## Current focus
 
-Right now, I’m mostly focused on improving my full stack development skills, building better user interfaces, learning more about security, and growing my agency work through real world projects.
+Right now, I’m mostly focused on improving my full stack development skills, building better user interfaces, learning more about security, and growing my agency through real world projects.
 
 I like projects that teach me something new, even if they break five times before they finally work.
 
